@@ -19,7 +19,7 @@ namespace TreasureHunter
         public Form1()
         {
             InitializeComponent();
-            hunterImg = new Bitmap("C:\\Users\\Leosnow\\Desktop\\Hero.png");
+            hunterImg = new Bitmap("Hero.png");
             timer1.Interval = 100;
             timer1.Tick += new EventHandler(Update);
             timer1.Start();
