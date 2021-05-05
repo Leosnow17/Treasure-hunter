@@ -1,0 +1,10 @@
+C:\Users\Leosnow\source\repos\TreasureHunter\bin\Debug\TreasureHunter.exe.config
+C:\Users\Leosnow\source\repos\TreasureHunter\bin\Debug\TreasureHunter.exe
+C:\Users\Leosnow\source\repos\TreasureHunter\bin\Debug\TreasureHunter.pdb
+C:\Users\Leosnow\source\repos\TreasureHunter\obj\Debug\TreasureHunter.csprojAssemblyReference.cache
+C:\Users\Leosnow\source\repos\TreasureHunter\obj\Debug\TreasureHunter.Form1.resources
+C:\Users\Leosnow\source\repos\TreasureHunter\obj\Debug\TreasureHunter.Properties.Resources.resources
+C:\Users\Leosnow\source\repos\TreasureHunter\obj\Debug\TreasureHunter.csproj.GenerateResource.cache
+C:\Users\Leosnow\source\repos\TreasureHunter\obj\Debug\TreasureHunter.csproj.CoreCompileInputs.cache
+C:\Users\Leosnow\source\repos\TreasureHunter\obj\Debug\TreasureHunter.exe
+C:\Users\Leosnow\source\repos\TreasureHunter\obj\Debug\TreasureHunter.pdb
